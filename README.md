@@ -5,7 +5,7 @@ Demo of TableView usage
 
 -check/uncheck rows
 
--save configuration to device
+-save/retrieve configuration to/from device
 
 
 ------------------
