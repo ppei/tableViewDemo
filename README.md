@@ -1,11 +1,11 @@
 # tableViewDemo
-Demo of TableView usage
+Demo use of TableView created by Pei Pei
 
 -2 section table
 
 -check/uncheck rows
 
--save/retrieve configuration to/from device
+-save/retrieve configuration to/from device using NSUSERDefaults
 
 
 ------------------
